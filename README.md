@@ -3,17 +3,14 @@
 **I'M NICKO REORIZO**
 
 **WEBSITE DEVELOPER | UI/UX | SOFTWARE DEVELOPER**
-<!--
-**Nicko-Reorizo/Nicko-Reorizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##💡 About Me
+A BSIT Student currently studying at **Ateneo De Naga University.**
+I’m very passionate about creating websites that not only look appealing but also enhance the user experience to boost engagement and functionality.
+I enjoy learning new technologies and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### ⚙️ Tech Stack
+- 💻 **Languages:** HTML, CSS, JavaScript, C++, Java, PHP, SQL
+- 🧩 **Frameworks & Tools:** React, Vite, Tailwind CSS, Bootstrap, Jquery, Node.js, XAMPP, Navicat, Oracle, GSAP
+- 🎨 **Design Tools:** Figma, Canva
