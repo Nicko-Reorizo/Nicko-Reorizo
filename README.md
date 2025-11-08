@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-NICKO REORIZO   
+## I'M NICKO REORIZO 
+
+##  WEBSITE DEVELOPER | UI/UX | SOFTWARE DEVELOPER
 <!--
 **Nicko-Reorizo/Nicko-Reorizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
