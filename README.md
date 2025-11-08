@@ -39,6 +39,8 @@ I enjoy learning new technologies and improving my skills every day.
 
 
 ![Nicko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicko-Reorizo&show_icons=true&count_private=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicko-Reorizo&layout=compact&theme=radical)
+
 
 
 
