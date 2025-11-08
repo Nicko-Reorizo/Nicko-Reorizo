@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'M NICKO REORIZO 
+** I'M NICKO REORIZO 
 
 ##  WEBSITE DEVELOPER | UI/UX | SOFTWARE DEVELOPER
 <!--
