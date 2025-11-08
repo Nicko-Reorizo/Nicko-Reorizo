@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-NICKO REORIZO   
+##NICKO REORIZO   
 <!--
 **Nicko-Reorizo/Nicko-Reorizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
