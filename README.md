@@ -39,9 +39,8 @@ I enjoy learning new technologies and improving my skills every day.
 
 
 ![Nicko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicko-Reorizo&show_icons=true&count_private=true&theme=radical)
-[[![Nicko's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Nicko-Reorizo&theme=react-dark&area=true)](https://github‐readme‐activity‐graph.vercel.app/graph?username=Nicko‑Reorizo&theme=react‑dark&area=true
-)](https://github‐readme‐activity‐graph.vercel.app/graph?username=Nicko‑Reorizo&theme=react‑dark&area=true
-)
+[![GitHub Profile](https://github-readme-stats.vercel.app/api?username=Nicko-Reorizo&show_icons=true&count_private=true&theme=radical)](https://github.com/Nicko-Reorizo)
+
 
 
 
