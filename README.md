@@ -44,6 +44,3 @@ I enjoy learning new technologies and improving my skills every day.
 
 
 
-
-
-
